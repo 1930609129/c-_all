@@ -1,0 +1,3 @@
+D:/c-and-python/c++_all/stl/cmake-build-debug/CMakeFiles/stl.dir
+D:/c-and-python/c++_all/stl/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/c-and-python/c++_all/stl/cmake-build-debug/CMakeFiles/rebuild_cache.dir
